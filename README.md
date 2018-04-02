@@ -1,2 +1,2 @@
-# DIPE
+# DEEP
 Digital Image Processing Example
